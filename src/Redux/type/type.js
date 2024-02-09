@@ -1,0 +1,6 @@
+export const GETAPI ="GETAPI";
+export const DECREMENT ="DECREMENT";
+export const INCREMENT ="INCREMENT";
+export const GETDATA ="GETDATA";
+export const DELETEUSERDATA="DELETEUSERDATA"
+export const EDITUSERDATA ="EDITUSERDATA";
